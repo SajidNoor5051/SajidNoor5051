@@ -96,7 +96,7 @@ I build web apps and tools that solve real problems — from AI-powered study pl
 ---
 -->
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
 
 <!-- Visitor counter — customize color and label at https://visitor-badge.laobi.icu/ or komarev.com -->
 [![Profile Views](https://komarev.com/ghpvc/?username=SajidNoor5051&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/SajidNoor5051)
