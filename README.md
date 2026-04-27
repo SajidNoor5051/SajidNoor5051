@@ -79,8 +79,8 @@ I build web apps and tools that solve real problems — from AI-powered study pl
 </a>
 
 <!-- Row 2 -->
-<a href="https://github.com/SajidNoor5051/UnderGrad-Student-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=UnderGrad-Student-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ecommerce-platform"/>
+<a href="https://github.com/Tausif-Rashid/Undergrad-Student-Management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tausif-Rashid&repo=Undergrad-Student-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ecommerce-platform"/>
 </a>
 
 </div>
