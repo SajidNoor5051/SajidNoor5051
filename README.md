@@ -22,30 +22,45 @@ I build web apps and tools that solve real problems — from AI-powered study pl
 
 ## 🛠️ Tech Stack
 
-<!-- Frontend row -->
+**Languages**
+
+[![Python](https://img.shields.io/badge/Python-58A6FF?style=for-the-badge&logo=python&logoColor=0D1117)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C++](https://img.shields.io/badge/C++-3FB950?style=for-the-badge&logo=c%2B%2B&logoColor=0D1117)](https://isocpp.org/)
+
+
 **Frontend**
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-58A6FF?style=for-the-badge&logo=typescript&logoColor=0D1117)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-3FB950?style=for-the-badge&logo=react&logoColor=0D1117)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=0D1117)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-58A6FF?style=for-the-badge&logo=tailwind-css&logoColor=0D1117)](https://tailwindcss.com/)
 
-<!-- Backend row -->
 **Backend**
 
 [![Node.js](https://img.shields.io/badge/Node.js-3FB950?style=for-the-badge&logo=node.js&logoColor=0D1117)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-58A6FF?style=for-the-badge&logo=express&logoColor=0D1117)](https://expressjs.com/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-3FB950?style=for-the-badge&logo=fastapi&logoColor=0D1117)](https://fastapi.tiangolo.com/)
+
+**Databases**
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-3FB950?style=for-the-badge&logo=mongodb&logoColor=0D1117)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-58A6FF?style=for-the-badge&logo=postgresql&logoColor=0D1117)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-F7DF1E?style=for-the-badge&logo=mysql&logoColor=0D1117)](https://www.mysql.com/)
 
-<!-- Tools & DevOps row -->
+**AI & ML**
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-3FB950?style=for-the-badge&logo=scikit-learn&logoColor=0D1117)](https://scikit-learn.org/)
+
 **Tools & DevOps**
 
 [![Docker](https://img.shields.io/badge/Docker-58A6FF?style=for-the-badge&logo=docker&logoColor=0D1117)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=0D1117)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-3FB950?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3FB950?style=for-the-badge&logo=github-actions&logoColor=0D1117)](https://github.com/features/actions)
+[![Vercel](https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://vercel.com/)
 
----
 
 ## 📊 GitHub Stats
 
