@@ -11,12 +11,12 @@
 ---
 
 ## 🧑‍💻 About Me
+MD Sajid Mostafiz Noor — CS undergrad at BUET, Full Stack Developer.
+I build web apps and tools that solve real problems — from AI-powered study platforms to fantasy sports systems. I also do research, currently published in ACM IMWUT.
 
-I'm **MD Sajid Mostafiz Noor** — an undergraduate CS student who lives at the intersection of clean design and powerful engineering. I build full-stack web apps that actually feel good to use. 🎯
-
-- 🔭 **Currently building:** An AI-powered productivity dashboard with React + OpenAI API
-- 🌱 **Currently learning:** TypeScript deep-dives, system design patterns & Docker orchestration
-- ⚡ **Fun fact:** I debug better at 2 AM than at 2 PM — the dark theme just hits different
+Research interests: Applied AI, HCI, and Security
+Stack: React, Node.js, TypeScript, Python — and whatever the project needs
+Outside of coding — football, guitar, and travelling when I get the chance
 
 ---
 
