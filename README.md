@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation — customize the `lines` param to change what cycles through -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey%2C+I'm+Sajid+Noor+%F0%9F%91%8B;Full+Stack+Developer;Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;React+%2B+Node.js+enthusiast;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey%2C+I'm+Sajid+Noor;Full+Stack+Developer;React+%C2%B7+Node.js+%C2%B7+TypeScript;Interested+in+AI%2C+HCI+%26+Security;Based+in+Dhaka%2C+Bangladesh)](https://git.io/typing-svg)
 
 <!-- Thin wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=6&section=header&reversal=false" width="100%"/>
@@ -14,9 +14,9 @@
 MD Sajid Mostafiz Noor — CS undergrad at BUET, Full Stack Developer.
 I build web apps and tools that solve real problems — from AI-powered study platforms to fantasy sports systems. I also do research, currently published in ACM IMWUT.
 
-Research interests: Applied AI, HCI, and Security
-Stack: React, Node.js, TypeScript, Python — and whatever the project needs
-Outside of coding — football, guitar, and travelling when I get the chance
+- 🔭 Research interests: Applied AI, HCI, and Security
+- 🌱 Stack: React, Node.js, TypeScript, Python — and whatever the project needs
+- ⚡ Outside of coding — football, guitar, and travelling when I get the chance
 
 ---
 
