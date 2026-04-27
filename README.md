@@ -115,7 +115,7 @@ I build web apps and tools that solve real problems — from AI-powered study pl
 <br/>
 
 <!-- Closing quote — feel free to swap this out -->
-*"Any sufficiently advanced commit message is indistinguishable from poetry."*
+*"Taking life one song at a time!"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=6&section=footer" width="100%"/>
 
