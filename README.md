@@ -71,11 +71,11 @@ I'm **MD Sajid Mostafiz Noor** — an undergraduate CS student who lives at the 
 <!-- Repo cards — replace repo names with your actual top repos -->
 
 <!-- Row 1 -->
-<a href="https://github.com/SajidNoor5051/ai-chat-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=ai-chat-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ai-chat-app"/>
+<a href="https://github.com/SajidNoor5051/bpl_fantasy_league">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=bpl_fantasy_league"p&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ai-chat-app"/>
 </a>
-<a href="https://github.com/SajidNoor5051/ecommerce-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=ecommerce-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ecommerce-platform"/>
+<a href="https://github.com/SajidNoor5051/UnderGrad-Student-Management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=UnderGrad-Student-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ecommerce-platform"/>
 </a>
 
 <!-- Row 2 -->
