@@ -16,7 +16,7 @@ I build web apps and tools that solve real problems — from AI-powered study pl
 
 - 🔭 Research interests: Applied AI, HCI, and Security
 - 🌱 Stack: React, Node.js, TypeScript, Python — and whatever the project needs
-- ⚡ Outside of coding — football, guitar, and travelling when I get the chance
+- ⚡ Outside of coding and academics — football, guitar, and travelling whenever I get the chance
 
 ---
 
@@ -79,15 +79,13 @@ I build web apps and tools that solve real problems — from AI-powered study pl
 </a>
 
 <!-- Row 2 -->
-<a href="https://github.com/SajidNoor5051/portfolio-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=portfolio-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="portfolio-website"/>
-</a>
+
 
 </div>
 
 ---
 
-## 🐍 My contributions, eaten alive
+## 🐍 My contributions :
 
 <div align="center">
 
