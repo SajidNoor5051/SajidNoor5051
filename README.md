@@ -74,12 +74,14 @@ I build web apps and tools that solve real problems — from AI-powered study pl
 <a href="https://github.com/SajidNoor5051/bpl_fantasy_league">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=bpl_fantasy_league"p&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ai-chat-app"/>
 </a>
-<a href="https://github.com/SajidNoor5051/UnderGrad-Student-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=UnderGrad-Student-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ecommerce-platform"/>
+<a href="https://github.com/afridi044/Examcraft">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afridi044&repo=Examcraft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ecommerce-platform"/>
 </a>
 
 <!-- Row 2 -->
-
+<a href="https://github.com/SajidNoor5051/UnderGrad-Student-Management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=UnderGrad-Student-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ecommerce-platform"/>
+</a>
 
 </div>
 
