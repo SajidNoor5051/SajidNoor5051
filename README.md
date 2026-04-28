@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-MD Sajid Mostafiz Noor — CS undergrad at BUET, Full Stack Developer.
+Hello! I am MD Sajid Mostafiz Noor — CS undergrad at BUET, Full Stack Developer.
 I build web apps and tools that solve real problems — from AI-powered study platforms to fantasy sports systems. I also do research, currently published in ACM IMWUT.
 
 - 🔭 Research interests: Applied AI, HCI, and Security
