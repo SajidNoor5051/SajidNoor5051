@@ -14,7 +14,7 @@
 Hi, I am Sajid Mostafiz Noor — currently in the final semester of my undergraduation in Computer Science and Engineering at BUET. 
 Besides my academics, I have been involved in doing research, building scalable web applications and exploring new stacks and technologies around me.
 
-- 🔭 My research interest lies in Applied AI, Human Computer Interatction (HCI), and Computer Security.
+- 🔭 My research interest lies in Applied AI, Human Computer Interaction (HCI), and Computer Security.
 - 🌱 Stacks that I have used : React, Node.js, TypeScript, Python — and whatever the project needs.
 - ⚡ Outside of coding and academics — football, guitar, and travelling whenever I get the chance.
 
@@ -81,24 +81,25 @@ Besides my academics, I have been involved in doing research, building scalable 
 
 ## 🚀 Projects
 
+
+
 <div align="center">
 
-<!-- Repo cards — replace repo names with your actual top repos -->
-
-<!-- Row 1 -->
 <a href="https://github.com/SajidNoor5051/bpl_fantasy_league">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=bpl_fantasy_league"p&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ai-chat-app"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=bpl_fantasy_league&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%"/>
 </a>
 <a href="https://github.com/afridi044/Examcraft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afridi044&repo=Examcraft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ecommerce-platform"/>
-</a>
-
-<!-- Row 2 -->
-<a href="https://github.com/Tausif-Rashid/Undergrad-Student-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tausif-Rashid&repo=Undergrad-Student-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ecommerce-platform"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afridi044&repo=Examcraft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%"/>
 </a>
 
 </div>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏆 **[BUET Fantasy Premier League](https://github.com/SajidNoor5051/bpl_fantasy_league)** | Fantasy sports platform with live match updates, real-time leaderboards, and scoring logic. | `Node.js` `React` `PostgreSQL` |
+| 🤖 **[ExamCraft](https://github.com/afridi044/Examcraft)** | AI-powered exam prep platform with adaptive quizzes, flashcards, and spaced-repetition study planning. | `Next.js` `FastAPI` `PostgreSQL` |
+| ⚙️ **[C++ Compiler](https://github.com/SajidNoor5051/[repo-name])** | Compiler built from scratch with lexical analysis, parsing, semantic checks, and three-address code generation. | `C++` `Flex` `Bison` |
+| 🎓 **[Grades Information System](https://github.com/Tausif-Rashid/Undergrad-Student-Management)** | Role-based academic management system with course enrollment, grade management, and an admin dashboard. | `Node.js` `Express` `MySQL` |
 
 ## 🔬 Currently Working On
 
