@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation — customize the `lines` param to change what cycles through -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey%2C+I'm+Sajid+Noor;From+Dhaka%2C+Bangladesh;Doing+undergrad+at+BUET;Interested+in+AI%2C+HCI%2C+Security+%26+Software+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey%2C+I'm+Sajid+Noor;From+Dhaka%2C+Bangladesh;Doing+undergrad+at+BUET;Interested+in+AI%2C+HCI%2C+Security;%26+Software+Development)](https://git.io/typing-svg)
 
 <!-- Thin wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=6&section=header&reversal=false" width="100%"/>
