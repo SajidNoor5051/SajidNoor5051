@@ -79,7 +79,7 @@ Besides my academics, I have been involved in doing research, building scalable 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <table>
 <tr>
@@ -125,6 +125,7 @@ Besides my academics, I have been involved in doing research, building scalable 
 </td>
 </tr>
 </table>
+---
 ## 🔬 Currently Working On
 
 - 📝 **Undergraduate Thesis** — *"Real-Time Aggressive Driving Detection Using Feature Optimization and Machine Learning"*
