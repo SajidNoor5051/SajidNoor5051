@@ -81,21 +81,30 @@ Besides my academics, I have been involved in doing research, building scalable 
 
 ## 🚀 Projects
 
-**[🏆 BUET Fantasy Premier League](https://github.com/SajidNoor5051/bpl_fantasy_league)**
+## 🚀 Featured Projects
+
+[🏆 **BUET Fantasy Premier League**](https://github.com/SajidNoor5051/bpl_fantasy_league)
 Fantasy sports platform with live match updates, real-time leaderboards, and player scoring logic.
 `Node.js` `React` `PostgreSQL` `Express`
 
-**[🤖 ExamCraft](https://github.com/afridi044/Examcraft)**
+---
+
+[🤖 **ExamCraft**](https://github.com/afridi044/Examcraft)
 AI-powered exam prep platform with adaptive quizzes, flashcards, and spaced-repetition study planning.
 `Next.js` `FastAPI` `PostgreSQL` `TypeScript`
 
-**[⚙️ C++ Compiler](https://github.com/SajidNoor5051/Compiler-design)**
+---
+
+[⚙️ **C++ Compiler**](https://github.com/SajidNoor5051/Compiler-design)
 Compiler built from scratch with lexical analysis, parsing, semantic checks, and three-address code generation.
 `C++` `Flex` `Bison`
 
-**[🎓 Grades Information System](https://github.com/Tausif-Rashid/Undergrad-Student-Management)**
+---
+<!--
+[🎓 **Grades Information System**](https://github.com/Tausif-Rashid/Undergrad-Student-Management)
 Role-based academic management system with course enrollment, grade management, and an admin dashboard.
 `Node.js` `Express` `MySQL`
+-->
 ---
 ## 🔬 Currently Working On
 
