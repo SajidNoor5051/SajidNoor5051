@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation — customize the `lines` param to change what cycles through -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey%2C+I'm+Sajid+Noor;Full+Stack+Developer;React+%C2%B7+Node.js+%C2%B7+TypeScript;Interested+in+AI%2C+HCI+%26+Security;Based+in+Dhaka%2C+Bangladesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey%2C+I'm+Sajid+Noor;From+Dhaka%2C+Bangladesh;Doing+undergrad+at+BUET;Interested+in+AI%2C+HCI%2C+Security;%26+Software+Development)](https://git.io/typing-svg)
 
 <!-- Thin wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=6&section=header&reversal=false" width="100%"/>
@@ -10,13 +10,13 @@
 
 ---
 
-## 🧑‍💻 About Me
-Hello! I am MD Sajid Mostafiz Noor — CS undergrad at BUET, Full Stack Developer.
-I build web apps and tools that solve real problems — from AI-powered study platforms to fantasy sports systems. I also do research, currently published in ACM IMWUT.
+## 🧑‍💻 A little About myself
+Hi, I am Sajid Mostafiz Noor — currently in the final semester of my undergraduation in Computer Science and Engineering at BUET. 
+Besides my academics, I have been involved in doing research, building scalable web applications and exploring new stacks and technologies around me.
 
-- 🔭 Research interests: Applied AI, HCI, and Security
-- 🌱 Stack: React, Node.js, TypeScript, Python — and whatever the project needs
-- ⚡ Outside of coding and academics — football, guitar, and travelling whenever I get the chance
+- 🔭 My research interest lies in Applied AI, Human Computer Interaction (HCI), and Computer Security.
+- 🌱 Stacks that I have used : React, Node.js, TypeScript, Python — and whatever the project needs.
+- ⚡ Outside of coding and academics — football, guitar, and travelling whenever I get the chance.
 
 ---
 
@@ -79,26 +79,36 @@ I build web apps and tools that solve real problems — from AI-powered study pl
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<div align="center">
 
-<!-- Repo cards — replace repo names with your actual top repos -->
+[🏆 **BUET Fantasy Premier League**](https://github.com/SajidNoor5051/bpl_fantasy_league)
+Fantasy sports platform with live match updates, real-time leaderboards, and player scoring logic.
+`Node.js` `React` `PostgreSQL` `Express`
 
-<!-- Row 1 -->
-<a href="https://github.com/SajidNoor5051/bpl_fantasy_league">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=bpl_fantasy_league"p&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ai-chat-app"/>
-</a>
-<a href="https://github.com/afridi044/Examcraft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afridi044&repo=Examcraft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ecommerce-platform"/>
-</a>
+---
 
-<!-- Row 2 -->
-<a href="https://github.com/Tausif-Rashid/Undergrad-Student-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tausif-Rashid&repo=Undergrad-Student-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="48%" alt="ecommerce-platform"/>
-</a>
+[🤖 **ExamCraft**](https://github.com/afridi044/Examcraft)
+AI-powered exam prep platform with adaptive quizzes, flashcards, and spaced-repetition study planning.
+`Next.js` `FastAPI` `PostgreSQL` `TypeScript`
 
-</div>
+---
+
+[⚙️ **C++ Compiler**](https://github.com/SajidNoor5051/Compiler-design)
+Compiler built from scratch with lexical analysis, parsing, semantic checks, and three-address code generation.
+`C++` `Flex` `Bison`
+
+---
+<!--
+[🎓 **Grades Information System**](https://github.com/Tausif-Rashid/Undergrad-Student-Management)
+Role-based academic management system with course enrollment, grade management, and an admin dashboard.
+`Node.js` `Express` `MySQL`
+-->
+---
+## 🔬 Currently Working On
+
+- 📝 **Undergraduate Thesis** — *"Real-Time Aggressive Driving Detection Using Feature Optimization and Machine Learning"*
+  Supervised by **Prof. Dr. AKM Asikur Rahman**, BUET.
 
 <!--
 ---
@@ -120,7 +130,7 @@ I build web apps and tools that solve real problems — from AI-powered study pl
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajid--noor/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3FB950?style=for-the-badge&logo=google-chrome&logoColor=0D1117)](https://sajidnoor.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3FB950?style=for-the-badge&logo=google-chrome&logoColor=0D1117)](https://sajidnoor5051.github.io/Sajid-Noor-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:sajidmostafiznoor@gmail.com)
 
 <br/>
