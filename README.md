@@ -81,7 +81,6 @@ Besides my academics, I have been involved in doing research, building scalable 
 
 ## 🚀 Projects
 
-## 🚀 Featured Projects
 
 [🏆 **BUET Fantasy Premier League**](https://github.com/SajidNoor5051/bpl_fantasy_league)
 Fantasy sports platform with live match updates, real-time leaderboards, and player scoring logic.
