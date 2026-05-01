@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation — customize the `lines` param to change what cycles through -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey%2C+I'm+Sajid+Noor;Full+Stack+Developer;React+%C2%B7+Node.js+%C2%B7+TypeScript;Interested+in+AI%2C+HCI+%26+Security;Based+in+Dhaka%2C+Bangladesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey%2C+I'm+Sajid+Noor;From+Dhaka%2C+Bangladesh;Doing+undergrad+at+BUET;Interested+in+AI%2C+HCI%2C+Security+%26;Based+in+Dhaka%2C+Bangladesh)](https://git.io/typing-svg)
 
 <!-- Thin wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=6&section=header&reversal=false" width="100%"/>
@@ -10,13 +10,13 @@
 
 ---
 
-## 🧑‍💻 About Me
-MD Sajid Mostafiz Noor — CS undergrad at BUET, Full Stack Developer.
-I build web apps and tools that solve real problems — from AI-powered study platforms to fantasy sports systems. I also do research, currently published in ACM IMWUT.
+## 🧑‍💻 A little About myself
+Hi, I am Sajid Mostafiz Noor — currently in the final semester of my undergraduation in Computer Science and Engineering at BUET. 
+Besides my academics, I have been involved in doing research, building scalable web applications and exploring new stacks and technologies around me.
 
-- 🔭 Research interests: Applied AI, HCI, and Security
-- 🌱 Stack: React, Node.js, TypeScript, Python — and whatever the project needs
-- ⚡ Outside of coding and academics — football, guitar, and travelling whenever I get the chance
+- 🔭 My research interest lies in Applied AI, Human Computer Interatction (HCI), and Computer Security.
+- 🌱 Stacks that I have used : React, Node.js, TypeScript, Python — and whatever the project needs.
+- ⚡ Outside of coding and academics — football, guitar, and travelling whenever I get the chance.
 
 ---
 
