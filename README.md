@@ -81,50 +81,21 @@ Besides my academics, I have been involved in doing research, building scalable 
 
 ## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/SajidNoor5051/bpl_fantasy_league">🏆 BUET Fantasy Premier League</a></h3>
-<p style="font-size:13px;color:#8b949e;margin:8px 0;">Fantasy sports platform with live match updates, real-time leaderboards, and player scoring logic.</p>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-3FB950?style=flat-square&logo=node.js&logoColor=0D1117"/>
-  <img src="https://img.shields.io/badge/React-58A6FF?style=flat-square&logo=react&logoColor=0D1117"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-58A6FF?style=flat-square&logo=postgresql&logoColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Express-F0883E?style=flat-square&logo=express&logoColor=0D1117"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/afridi044/Examcraft">🤖 ExamCraft</a></h3>
-<p style="font-size:13px;color:#8b949e;margin:8px 0;">AI-powered exam prep platform with adaptive quizzes, flashcards, and spaced-repetition study planning.</p>
-<p>
-  <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat-square&logo=next.js&logoColor=0D1117"/>
-  <img src="https://img.shields.io/badge/FastAPI-3FB950?style=flat-square&logo=fastapi&logoColor=0D1117"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-58A6FF?style=flat-square&logo=postgresql&logoColor=0D1117"/>
-  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=0D1117"/>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/SajidNoor5051/Compiler-design">⚙️ C++ Compiler</a></h3>
-<p style="font-size:13px;color:#8b949e;margin:8px 0;">Compiler built from scratch with lexical analysis, parsing, semantic checks, and three-address code generation.</p>
-<p>
-  <img src="https://img.shields.io/badge/C++-3FB950?style=flat-square&logo=c%2B%2B&logoColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Flex-58A6FF?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bison-F0883E?style=flat-square&logoColor=white"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Tausif-Rashid/Undergrad-Student-Management">🎓 Grades Information System</a></h3>
-<p style="font-size:13px;color:#8b949e;margin:8px 0;">Role-based academic management system with course enrollment, grade management, and an admin dashboard.</p>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-3FB950?style=flat-square&logo=node.js&logoColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Express-F0883E?style=flat-square&logo=express&logoColor=0D1117"/>
-  <img src="https://img.shields.io/badge/MySQL-F7DF1E?style=flat-square&logo=mysql&logoColor=0D1117"/>
-</p>
-</td>
-</tr>
-</table>
+**[🏆 BUET Fantasy Premier League](https://github.com/SajidNoor5051/bpl_fantasy_league)**
+Fantasy sports platform with live match updates, real-time leaderboards, and player scoring logic.
+`Node.js` `React` `PostgreSQL` `Express`
+
+**[🤖 ExamCraft](https://github.com/afridi044/Examcraft)**
+AI-powered exam prep platform with adaptive quizzes, flashcards, and spaced-repetition study planning.
+`Next.js` `FastAPI` `PostgreSQL` `TypeScript`
+
+**[⚙️ C++ Compiler](https://github.com/SajidNoor5051/Compiler-design)**
+Compiler built from scratch with lexical analysis, parsing, semantic checks, and three-address code generation.
+`C++` `Flex` `Bison`
+
+**[🎓 Grades Information System](https://github.com/Tausif-Rashid/Undergrad-Student-Management)**
+Role-based academic management system with course enrollment, grade management, and an admin dashboard.
+`Node.js` `Express` `MySQL`
 ---
 ## 🔬 Currently Working On
 
