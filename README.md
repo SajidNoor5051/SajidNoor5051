@@ -79,7 +79,7 @@ Besides my academics, I have been involved in doing research, building scalable 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
@@ -99,6 +99,11 @@ Besides my academics, I have been involved in doing research, building scalable 
 </a>
 
 </div>
+
+## 🔬 Currently Working On
+
+- 📝 **Undergraduate Thesis** — *"Real-Time Aggressive Driving Detection Using Feature Optimization and Machine Learning"*
+  Supervised by **Prof. Dr. AKM Asikur Rahman**, BUET.
 
 <!--
 ---
