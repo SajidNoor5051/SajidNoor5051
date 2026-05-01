@@ -79,14 +79,12 @@ Besides my academics, I have been involved in doing research, building scalable 
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/SajidNoor5051/bpl_fantasy_league">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=bpl_fantasy_league&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="100%"/>
-</a>
+<h3><a href="https://github.com/SajidNoor5051/bpl_fantasy_league">🏆 BUET Fantasy Premier League</a></h3>
 <p style="font-size:13px;color:#8b949e;margin:8px 0;">Fantasy sports platform with live match updates, real-time leaderboards, and player scoring logic.</p>
 <p>
   <img src="https://img.shields.io/badge/Node.js-3FB950?style=flat-square&logo=node.js&logoColor=0D1117"/>
@@ -96,9 +94,7 @@ Besides my academics, I have been involved in doing research, building scalable 
 </p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/afridi044/Examcraft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afridi044&repo=Examcraft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="100%"/>
-</a>
+<h3><a href="https://github.com/afridi044/Examcraft">🤖 ExamCraft</a></h3>
 <p style="font-size:13px;color:#8b949e;margin:8px 0;">AI-powered exam prep platform with adaptive quizzes, flashcards, and spaced-repetition study planning.</p>
 <p>
   <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat-square&logo=next.js&logoColor=0D1117"/>
@@ -110,9 +106,7 @@ Besides my academics, I have been involved in doing research, building scalable 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/SajidNoor5051/Compiler-design">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajidNoor5051&repo=Compiler-design&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="100%"/>
-</a>
+<h3><a href="https://github.com/SajidNoor5051/Compiler-design">⚙️ C++ Compiler</a></h3>
 <p style="font-size:13px;color:#8b949e;margin:8px 0;">Compiler built from scratch with lexical analysis, parsing, semantic checks, and three-address code generation.</p>
 <p>
   <img src="https://img.shields.io/badge/C++-3FB950?style=flat-square&logo=c%2B%2B&logoColor=0D1117"/>
@@ -121,9 +115,7 @@ Besides my academics, I have been involved in doing research, building scalable 
 </p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Tausif-Rashid/Undergrad-Student-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tausif-Rashid&repo=Undergrad-Student-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&show_owner=false" width="100%"/>
-</a>
+<h3><a href="https://github.com/Tausif-Rashid/Undergrad-Student-Management">🎓 Grades Information System</a></h3>
 <p style="font-size:13px;color:#8b949e;margin:8px 0;">Role-based academic management system with course enrollment, grade management, and an admin dashboard.</p>
 <p>
   <img src="https://img.shields.io/badge/Node.js-3FB950?style=flat-square&logo=node.js&logoColor=0D1117"/>
@@ -133,7 +125,6 @@ Besides my academics, I have been involved in doing research, building scalable 
 </td>
 </tr>
 </table>
-
 ## 🔬 Currently Working On
 
 - 📝 **Undergraduate Thesis** — *"Real-Time Aggressive Driving Detection Using Feature Optimization and Machine Learning"*
