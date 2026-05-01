@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation — customize the `lines` param to change what cycles through -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey%2C+I'm+Sajid+Noor;From+Dhaka%2C+Bangladesh;Doing+undergrad+at+BUET;Interested+in+AI%2C+HCI%2C+Security+%26;Based+in+Dhaka%2C+Bangladesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey%2C+I'm+Sajid+Noor;From+Dhaka%2C+Bangladesh;Doing+undergrad+at+BUET;Interested+in+AI%2C+HCI%2C+Security+%26+Software+Development)](https://git.io/typing-svg)
 
 <!-- Thin wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=6&section=header&reversal=false" width="100%"/>
@@ -120,7 +120,7 @@ Besides my academics, I have been involved in doing research, building scalable 
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajid--noor/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3FB950?style=for-the-badge&logo=google-chrome&logoColor=0D1117)](https://sajidnoor.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3FB950?style=for-the-badge&logo=google-chrome&logoColor=0D1117)](https://sajidnoor5051.github.io/Sajid-Noor-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:sajidmostafiznoor@gmail.com)
 
 <br/>
